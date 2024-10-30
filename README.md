@@ -1,5 +1,5 @@
 # Studies-in-C-language
-Estudos de Algoritmos em linguagem C para a disciplina da faculdade Laboratório de Computação.
+Estudos de Algoritmos em linguagem C para a disciplina da faculdade Laboratório de Computação. \n
 As questõe estão a seguir:
 q1. Faca um programa que leia um valor inteiro decimal X e escreva, na tela, este mesmo valor nas bases hexadecimal e octal.
 q2. Faca um programa capaz de ler um valor real e escrevˆe-lo com apenas uma casa decimal.
