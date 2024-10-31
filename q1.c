@@ -5,13 +5,13 @@ hexadecimal e octal.*/
 
 int main(){
 
-    int numero;
-    printf("Valor inteiro decimal:");
+    int num;
+    printf("Valor inteiro decimal: ");
 
-    scanf("%d", &numero);
+    scanf("%d", &num);
 
-    printf("%d em octal: %o\n", numero, numero);
-    printf("%d em hexadecimal: 0x%X\n", numero,numero);
+    printf("%d em octal: %o\n", num, num);
+    printf("%d em hexadecimal: 0x%X\n", num,num);
 
     return 0;
 }
